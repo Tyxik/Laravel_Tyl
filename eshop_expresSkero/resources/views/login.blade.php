@@ -6,6 +6,8 @@
     <title>Přihlášení</title>
 </head>
 <body>
-    
+   <nav></nav>
+   <l
+<footer></footer> 
 </body>
 </html>
